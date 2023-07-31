@@ -1,0 +1,65 @@
+.register-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 130vh;
+  padding: 30px;
+  background-image: url('https://img.freepik.com/free-vector/orange-question-mark-background-with-text-space_1017-27394.jpg?w=740&t=st=1689237223~exp=1689237823~hmac=ec91e0064a9f51a9825d138dc1ef67d24a735e99a81d4e5ebede4780e97d18fb');
+  background-size: cover;
+  background-position: center;
+  color: #f8f3f3;
+}
+
+
+.register-container h2 {
+  margin-left: -840px;
+  font-size: xx-large;
+  line-height: 20px;
+  margin-bottom: 10px;
+  color: #070000;
+ 
+}
+.log
+{
+  font-size: larger;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  color: #695d5d;
+}
+
+.input-container {
+  font-size: large;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  margin-left: 90px;
+}
+
+.input-container label {
+  display: block;
+  margin-bottom: 5px;
+  color: #fff;
+}
+
+.input-container input {
+  padding: 8px;
+  width: 400px;
+  border: 7px solid #0c0101;
+  border-radius: 3px;
+}
+
+.register-button {
+  border: 7px solid #0c0101;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 20px 22px;
+  width: 250px;
+  margin-left: 150px;
+}
+/* .reg
+{
+  background-size: cover;
+background-image: url("bimage.jpeg");
+} */
